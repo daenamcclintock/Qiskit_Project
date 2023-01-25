@@ -1,1 +1,1 @@
-# Quiskit Tkinter GUI App
+# Qiskit Tkinter GUI App
